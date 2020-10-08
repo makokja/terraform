@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIAUXHHLISE5QV75TDM"
-  secret_key = "lcCDJAYrWdxugWXVkktSfZp3nLiCi5tH6x5TQYsn"
+  access_key = "yourkey"
+  secret_key = "yourkey"
 }
 
 resource "aws_instance" "makok1" {
