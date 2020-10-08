@@ -1,5 +1,5 @@
 provider "aws" {
-  region     = "us-east-2"
+  region     = "ap-southeast-1"
   access_key = "yourkey"
   secret_key = "yourkey"
 }
