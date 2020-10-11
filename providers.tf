@@ -1,0 +1,6 @@
+#define a provider
+provider "aws" {
+  region     = "ap-southeast-1" 
+  access_key = "key"
+  secret_key = "key"
+}
